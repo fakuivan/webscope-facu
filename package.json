@@ -14,6 +14,7 @@
     "vite-plugin-solid": "^2.5.0"
   },
   "dependencies": {
+    "socket.io-client": "^4.7.2",
     "solid-js": "^1.6.10",
     "ts-adt": "^2.1.2"
   }

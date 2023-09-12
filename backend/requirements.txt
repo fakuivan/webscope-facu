@@ -1,0 +1,4 @@
+aiohttp #==3.8.5
+aiortc #==1.5.0
+dacite #==1.8.1
+numpy #==1.25.2

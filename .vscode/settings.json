@@ -1,3 +1,7 @@
 {
-    "ansible.python.interpreterPath": "/bin/python3.11"
+    "python.analysis.typeCheckingMode": "basic",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+    },
+    "python.defaultInterpreterPath": "~/venvs/webscope-backend/bin/python"
 }
